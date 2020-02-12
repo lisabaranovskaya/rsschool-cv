@@ -29,3 +29,8 @@ function validate(password) {
   return /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])[a-zA-Z0-9]{6,}$/.test(password);
 }
 ```
+6. Experience:
+* Freecodecamp (Responsive Web Design, JS Algorithms and Data Structures)
+* Freecodecamp projects ([Tribute Page](https://codepen.io/lisabar/pen/VJQQKJ), [Survey Form](https://codepen.io/lisabar/pen/RwbamMr))
+* Codewars ([@lisabaranovskaya](https://www.codewars.com/users/lisabaranovskaya))
+
