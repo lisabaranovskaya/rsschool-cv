@@ -11,5 +11,6 @@
 * SQL
 * Git
 * VS Code
-
+* regexp
+5. 
 
