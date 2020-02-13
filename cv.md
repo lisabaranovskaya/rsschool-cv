@@ -33,4 +33,9 @@ function validate(password) {
 * Freecodecamp (Responsive Web Design, JS Algorithms and Data Structures)
 * Freecodecamp projects ([Tribute Page](https://codepen.io/lisabar/pen/VJQQKJ), [Survey Form](https://codepen.io/lisabar/pen/RwbamMr))
 * Codewars ([@lisabaranovskaya](https://www.codewars.com/users/lisabaranovskaya))
+7. Education:
+* 3rd year student at BSUIR (e-marketing, computer science)
+* Online learning (freecodecamp, udemy)
+* Javascript books ("You Don't Know JS", "Eloquent Javascript")
+
 
