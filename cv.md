@@ -37,5 +37,10 @@ function validate(password) {
 * 3rd year student at BSUIR (e-marketing, computer science)
 * Online learning (freecodecamp, udemy)
 * Javascript books ("You Don't Know JS", "Eloquent Javascript")
-
+8. English B2-C1:
+* School/University education
+* Private lessons with a native speaker (5 years)
+* "International House" language courses (3 years)
+* General practice while traveling, speaking to foreign friends
+* Self-education via online resources, books, videos and other media content in English
 
