@@ -3,7 +3,8 @@
 * phone: [+375336023720](tel:+375336023720)
 * email: [lisabaranouskaya@gmail.com](mailto:lisabaranouskaya@gmail.com)
 * telegram: [@lizabaranovskaya](t.me/lizabaranovskaya)
-3.
+3. For the last 6 months I have been learning front-end development daily, practicing on my own, reading various books and solving exercises. But the one thing I lacked the whole time was a community which could make my learning path more exciting and fulfilling. I expect RS School to give me new interesting tasks to accomplish, new people to meet, make me more organized. I hope that RS could be of much help to find a good job, too. I'm grateful for such an oportunity to join your school and gain new knowledge and skills. 
+
 4. Skills:
 * HTML/CSS
 * JS 
