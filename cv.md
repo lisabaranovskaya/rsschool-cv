@@ -12,7 +12,7 @@
 * SQL
 * Git
 * VS Code
-* egexp
+* Regexp
 5. Code examples:
 ```javascript
 function findSum(n) {
