@@ -1,0 +1,28 @@
+body {
+  font-family: "Lato";
+  background-color: white;
+}
+
+#name {
+  font-weight: bold;
+}
+
+img {
+  height: 200px;
+  
+}
+
+#content {
+  margin: auto;
+  max-width: 600px;
+}
+
+#container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#name {
+  align-self: center;
+}
+
