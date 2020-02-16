@@ -35,7 +35,25 @@
       </section>
       <section id="code">
         <p id="code-text">Code examples: </p>
-        
+        <pre>
+          <code class="code-info">
+            function findSum(n) {
+                let sum = 0;
+                for (let i = 0; i <= n; i++) {
+                  if (i % 3 == 0 || i % 5 == 0) {
+                    sum += i;
+                  } 
+                }
+                return sum;
+              }
+          </code>
+
+          <code class="code-info">
+            function validate(password) {
+                return /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])[a-zA-Z0-9]{6,}$/.test(password);
+              }
+          </code>
+        </pre>
       </section>
       <section id="experience">
         <p id="experience-text">Experience: </p>
