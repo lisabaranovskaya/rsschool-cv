@@ -1,0 +1,62 @@
+body {
+  font-family: "Lato";
+  background-color: white;
+}
+
+#name {
+  font-weight: bold;
+  font-family: "Bitter";
+  font-size: 3vmin;
+}
+
+img {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+}
+
+#content {
+  margin: auto;
+  max-width: 600px;
+}
+
+#container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+#gen-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  font-weight: bold;
+}
+
+.contact-info {
+  list-style-type: none;
+}
+
+#summary-text {
+  text-align: justify;
+}
+
+a {
+  color: #090981e3;
+}
+
+div.emptyDiv {
+  margin-top: 10px;
+  border: 1.2px solid rgba(0, 0, 0, 0.123);
+}
+
+#english {
+  margin-bottom: 80px;
+}
+
+#contacts {
+  font-size: 2vmin;
+}
+
