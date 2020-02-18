@@ -10,7 +10,6 @@ body {
 
 img {
   height: 200px;
-  
 }
 
 #content {
@@ -21,10 +20,12 @@ img {
 #container {
   display: flex;
   justify-content: space-between;
+  margin-top: 40px;
 }
 
 #gen-info {
-  align-self: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .text {
@@ -34,3 +35,21 @@ img {
 .contact-info {
   list-style-type: none;
 }
+
+#summary-text {
+  text-align: justify;
+}
+
+a {
+  color: #090981e3;
+}
+
+div.emptyDiv {
+  margin-top: 10px;
+  border: 1.2px solid rgba(0, 0, 0, 0.123);
+}
+
+#english {
+  margin-bottom: 80px;
+}
+

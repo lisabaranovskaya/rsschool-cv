@@ -12,18 +12,18 @@
       <section id="gen-info">
         <p id="name">Lisa Baranovskaya</p>
         <section id="contacts">
-            <ul>
-              <li class="contact-info">PHONE: <a href="tel:+375336023720">+375336023720</a></li>
-              <li class="contact-info">EMAIL: <a href="mailto:lisabaranouskaya@gmail.com">lisabaranouskaya@gmail.com</a></li>
-              <li class="contact-info">TELEGRAM: <a href="t.me/lizabaranovskaya">@lizabaranovskaya</a></li>
-            </ul>
-          </section>
+              <div class="contact-info">PHONE: <a href="tel:+375336023720">+375336023720</a></div>
+              <div class="contact-info">EMAIL: <a href="mailto:lisabaranouskaya@gmail.com">lisabaranouskaya@gmail.com</a></div>
+              <div class="contact-info">TELEGRAM: <a href="t.me/lizabaranovskaya">@lizabaranovskaya</a></div>
         </section>
+      </section>
       <section id="photo"><img src="https://i.ibb.co/WkfMYNP/photo-2019-08-29-11-36-17.jpg" alt="Lisa Baranovskaya photo"></section>
       </div>
+      <div class="emptyDiv"></div>
       <section id="summary">
         <p id="summary-text">For the last 6 months I have been learning front-end development daily, practicing on my own, reading various books and solving exercises. But the one thing I lacked the whole time was a community which could make my learning path more exciting and fulfilling. I expect RS School to give me new interesting tasks to accomplish, new people to meet, make me more organized. I hope that RS could be of much help to find a good job, too. I'm grateful for such an oportunity to join your school and gain new knowledge and skills.</p>
       </section>
+      <div class="emptyDiv"></div>
       <section id="skills">
         <p class="text">Skills: </p>
         <ul>
@@ -36,28 +36,30 @@
           <li class="skills-info">Regexp</li>
         </ul>
       </section>
+      <div class="emptyDiv"></div>
       <section id="code">
         <p class="text">Code examples: </p>
         <pre>
           <code class="code-info">
             function findSum(n) {
-                let sum = 0;
-                for (let i = 0; i <= n; i++) {
-                  if (i % 3 == 0 || i % 5 == 0) {
-                    sum += i;
-                  } 
+              let sum = 0;
+              for (let i = 0; i <= n; i++) {
+                if (i % 3 == 0 || i % 5 == 0) {
+                  sum += i;
+                } 
                 }
-                return sum;
-              }
+              return sum;
+            }
           </code>
 
           <code class="code-info">
-            function validate(password) {
-                return /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])[a-zA-Z0-9]{6,}$/.test(password);
-              }
+            function reverseLetter(str) {
+              return str.replace(/[^a-zA-Z]/g, '').split('').reverse().join('');
+            }
           </code>
         </pre>
       </section>
+      <div class="emptyDiv"></div>
       <section id="experience">
         <p class="text">Experience: </p>
         <ul>
@@ -66,6 +68,7 @@
           <li class="experience-info">Codewars (<a href="https://www.codewars.com/users/lisabaranovskaya">@lisabaranovskaya</a>)</li>
         </ul>
       </section>
+      <div class="emptyDiv"></div>
       <section id="education">
         <p class="text">Education: </p>
         <ul>
@@ -74,6 +77,7 @@
           <li class="education-info">Javascript books ("You Don't Know JS", "Eloquent Javascript")</li>
         </ul>
       </section>
+      <div class="emptyDiv"></div>
       <section id="english">
         <p class="text">English B2-C1: </p>
         <ul>
